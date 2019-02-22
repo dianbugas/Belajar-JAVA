@@ -24,6 +24,9 @@ public class Variabel {
         int c;
         c=a*b;
         System.out.println("A x B = " + c);
+        double d;
+        d=4;
+        System.out.println("double = " + d);
     }
     
 }
