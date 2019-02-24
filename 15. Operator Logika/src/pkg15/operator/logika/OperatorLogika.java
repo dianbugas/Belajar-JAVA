@@ -90,6 +90,13 @@ public class OperatorLogika {
         a = false;
         c = !a;
         System.out.println(a + " --> (!) = " + c);
+        
+        //latihan
+        System.out.println("========OR======");
+        a = false;
+        b = false;
+        c = (a||b);
+        System.out.println(a + "||" + b + " = "+ c);
 
     }
     
