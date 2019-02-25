@@ -34,6 +34,16 @@ public class LatihanAritmatika {
         tinggi = userInput.nextInt();
         volume = luas*tinggi;
         System.out.println("volume = "+ volume);
+        
+        //latihan lain
+        int a,b,c;
+        System.out.println("PERKALIAN");
+        System.out.print("Inputkan Angka Pertama = ");
+        a = userInput.nextInt();
+        System.out.print("Input Angka Kedua = ");
+        b = userInput.nextInt();
+        c = a*b;
+        System.out.print("Hasil" + a + "x" + b + "=" + c);
     }
     
 }
