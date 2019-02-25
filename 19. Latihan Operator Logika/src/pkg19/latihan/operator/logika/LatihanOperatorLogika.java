@@ -15,7 +15,7 @@ public class LatihanOperatorLogika {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // membuat sebuah objek untuk menangkap input dari user
+        // membuat sebuah objek untuk menangkap input dari user ok
         Scanner inputUser = new Scanner(System.in);
 
         // sebuah program sederhana untuk menebak sebuah angka
